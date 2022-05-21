@@ -10,9 +10,7 @@
     <!-- 파일업로드 --> method="post" enctype="Multipart/form-data" -->
 	<h3>Volatility</h3>
     <form action="fileuploadPro.jsp" method="post" enctype="Multipart/form-data">
-        <!--
-            파일 업로드는 input type="file"로 지정한다.
-         -->
+        <!-- 파일 업로드는 input type="file"로 지정한다. -->
         File: <input type="file" name="fileName1" /><br/>
 	Command: <input type="text" name="command"/><br/>
 	Profile: <input type="text" name="profile" /><br/>
