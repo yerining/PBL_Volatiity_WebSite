@@ -7,10 +7,8 @@
 <title>Volatility</title>
 </head>
 <center>
-    <!--
-        파일업로드를 위해선 반드시 method="post" enctype="Multipart/form-data"여야함!
-     -->
-    <h3>Volatility</h3>
+    <!-- 파일업로드 --> method="post" enctype="Multipart/form-data" -->
+	<h3>Volatility</h3>
     <form action="fileuploadPro.jsp" method="post" enctype="Multipart/form-data">
         <!--
             파일 업로드는 input type="file"로 지정한다.
