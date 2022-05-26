@@ -36,17 +36,4 @@
 
 
 <a href="howToUse.jsp" class="back-to-article" target="_blank">사용법(How to Use)</a>
-=======
-<center>
-    <!-- 파일업로드 --> method="post" enctype="Multipart/form-data" -->
-	<h3>Volatility</h3>
-    <form action="fileuploadPro.jsp" method="post" enctype="Multipart/form-data">
-        <!-- 파일 업로드는 input type="file"로 지정한다. -->
-        File: <input type="file" name="fileName1" /><br/>
-	Command: <input type="text" name="command"/><br/>
-	Profile: <input type="text" name="profile" /><br/>
-        <input type="submit" value="전송" />  
-        <input type="reset" value="취소" />
-    </form>
-</center>
->>>>>>> 817ef3ac84cea790ae28603ecd57212b8594aef5
+
