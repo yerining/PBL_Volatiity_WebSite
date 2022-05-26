@@ -6,7 +6,6 @@
 <title>Volatility</title>
 <link href='design.css' rel='stylesheet' type='text/css'>
 </head>
-<<<<<<< HEAD
   
 <h1><strong>Volatility Using</strong> with Web</h1>
   
