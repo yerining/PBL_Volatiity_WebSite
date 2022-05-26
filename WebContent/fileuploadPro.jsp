@@ -90,7 +90,7 @@
 	//file write
 	while( (s = br.readLine()) != null ){
 		fw.write(s);
-		fw.write(s);
+		fw.write("\n");
 		
 		//명령어 실행 내용 화면 출력
 		out.write(s + "<br>");
