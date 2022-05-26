@@ -112,6 +112,6 @@
     a태그로 클릭시 download하는 jsp페이지로 이동하도록 함
 -->
 <br><p style="font-size: 20px; font-weight: bold">[Download]</p>
-<a href="http://192.168.10.235:8080/download.jsp">File Download Click!</a>
+<a href="http://X.X.X.X:8080/download.jsp">File Download Click!</a>
 <br><br>
 <a href="index.jsp">File Upload GO!</a>
